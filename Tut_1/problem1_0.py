@@ -8,9 +8,9 @@ miles = int(miles)
 
 # Kilometers = miles * 1.60934
 # perform calculation by multiplying miles by 1.60934
-kilometers = miles * 1.60934
+kilometers = miles * 0.62137
 
 # Enter Miles 5
 # 5 miles = 8.04 kilometers
 # print results using format()
-print("{} miles equals {} kilometers".format(miles, kilometers))
+print("{} miles equals {:.2f} kilometers".format(miles, kilometers))
