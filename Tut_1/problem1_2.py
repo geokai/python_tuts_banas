@@ -15,6 +15,8 @@ def guide_error():
 distance, unit = input("Enter the distance and Unit: ").split()
 
 distance = int(distance)
+
+# define variables for units of distance
 k_units = 'kilometers'
 m_units = 'miles'
 
