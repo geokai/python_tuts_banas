@@ -23,4 +23,4 @@ for i in range(1, 11):
     print("Amount at end of year {}, \t${:.2f}".format(i, amount))
 
 print()
-print("Investment after 10 years : ${:.2f}".format(amount))
+print("Balance after 10 years : ${:.2f}".format(amount))
