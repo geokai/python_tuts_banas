@@ -1,4 +1,4 @@
-# for loops and cycling thru' lists
+# for loops and cycling through lists
 for i in [2, 4, 6, 8, 10]:
     print('i =', i)
 print()
@@ -12,11 +12,11 @@ for i in range(2, 10):
 print()
 
 # floating point numbers
-# your_float = input("Enter a float: ")
+your_float = input("Enter a float: ")
 
-# your_float = float(your_float)
+your_float = float(your_float)
 
-# print("Round to 2 decimals : {:.2f}".format(your_float))
+print("Round to 2 decimals : {:.2f}".format(your_float))
 
 
 # order of operations
